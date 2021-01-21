@@ -1,3 +1,4 @@
-abc present in our trie
-abcjdkd not present in our trie
-abcssd present in our trie
+6
+sum from 1 to 2 : 5
+15
+sum from 0 to 4 : 15
